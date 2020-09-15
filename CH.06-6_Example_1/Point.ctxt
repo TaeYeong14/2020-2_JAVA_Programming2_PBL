@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Point
+comment0.text=\r\n\ \r\n\ @author\ (2018210032_\uAE40\uD0DC\uC601)\ \r\n\ @version\ (20200915_ch.06-6-1)\r\n
+comment1.params=x\ y
+comment1.target=Point(int,\ int)
+numComments=2

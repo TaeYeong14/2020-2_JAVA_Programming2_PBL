@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=GoodCalc
+comment0.text=\r\n\ \uC5EC\uAE30\uC5D0\ GoodCalc\ \uD074\uB798\uC2A4\ \uC124\uBA85\uC744\ \uC791\uC131\uD558\uC2ED\uC2DC\uC624.\r\n\ \r\n\ @author\ (2018210032_\uAE40\uD0DC\uC601)\ \r\n\ @version\ (20200915_ch06-3)\r\n
+comment1.params=a\ b
+comment1.target=int\ add(int,\ int)
+comment2.params=a\ b
+comment2.target=int\ substract(int,\ int)
+comment3.params=a
+comment3.target=double\ average(int[])
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
